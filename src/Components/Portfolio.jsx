@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/design-desk.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Person using Leptop";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "IOT based LPG gas Leakage Detection",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "our team participated in the RK University exhibition. Our project was about detecting and switching off LPG gas leaks. Servo motors, MQ2 gas sensors, and buzzers were used in this project",
+    url: "https://www.linkedin.com/posts/dhruv-burada_opportunity-university-rku-activity-7007672045907927040-ajDE?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Software Engineering Virtual Experience",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Throughout this program, I had the incredible opportunity to explore the fascinating world of database management. From creating efficient data structures to optimizing queries, I delved into the inner workings of databases, gaining invaluable skills and knowledge along the way.",
+    url: "https://www.linkedin.com/posts/dhruv-burada_wellsfargo-virtualexperienceprogram-databasemanagement-activity-7065537518171037696-roSP?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "My Resume Site",
+    title: "My Portfolio",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "Created from MLSA Template pages. Includes my experience and design abilities.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Microsoft Learn Student Ambassador",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "The opportunity to be a part of such an exceptional Microsoft community is truly inspiring",
+    url: "https://lnkd.in/d2za6gvs",
   },
 ];
 
